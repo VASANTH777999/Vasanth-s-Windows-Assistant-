@@ -1,3 +1,7 @@
+**Before Using the product make sure you have installed chromedriver.exe in laptop and Store it in data folder of the project and use the project -**
+
+
+
 # 🤖 Vasanth's Assistant
 
 **Voice-Activated AI Desktop Assistant for Windows**
@@ -338,5 +342,6 @@ python Vasanth's AI.py
 ```
 
 **Made with ❤️ for Vasanth**
+
 
 
