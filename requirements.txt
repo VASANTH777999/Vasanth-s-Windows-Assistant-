@@ -1,0 +1,35 @@
+# Vasanth's Assistant - Dependencies
+
+# GUI Framework
+PyQt5>=5.15.0
+
+# AI/ML Services
+cohere>=5.0.0
+groq>=0.4.0
+edge-tts>=6.1.0
+
+# Browser Automation
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+
+# Automation & System Control
+pywhatkit>=5.4
+keyboard>=0.13.5
+AppOpener>=1.6
+
+# Web & Search
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+duckduckgo-search>=4.0.0
+
+# Audio/Media
+pygame>=2.5.0
+Pillow>=10.0.0
+
+# Utilities
+mtranslate>=1.8
+python-dotenv>=1.0.0
+rich>=13.0.0
+
+# Additional
+pathlib>=1.0.1
