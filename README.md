@@ -258,7 +258,7 @@ Application logs are stored in `Data/logs/vasanth_assistant.log`
 
 To view recent logs:
 ```bash
-type Data\logs\Vasanth_assistant.log
+type Data\logs\vasanth_assistant.log
 ```
 
 ### Chat History
@@ -297,7 +297,7 @@ LOG_LEVEL=DEBUG
 
 Then run:
 ```bash
-python Vasanth'sAI.py
+python Vasanth's AI.py
 ```
 
 ### Project Dependencies
@@ -325,7 +325,7 @@ This project is for educational and personal use.
 
 For issues or questions:
 1. Check the troubleshooting section above
-2. Review logs in `Data/logs/solix.log`
+2. Review logs in `Data/logs/vasanth_assistant.log`
 3. Verify your configuration in `.env`
 
 ---
@@ -334,8 +334,9 @@ For issues or questions:
 
 Launch with:
 ```bash
-python solix.py
+python Vasanth's AI.py
 ```
 
 **Made with ❤️ for Vasanth**
+
 
