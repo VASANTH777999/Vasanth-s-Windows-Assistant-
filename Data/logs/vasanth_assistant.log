@@ -1,0 +1,45 @@
+2025-12-28 22:00:15,260 - VasanthAssistant.Model - INFO - Cohere client initialized successfully
+2025-12-28 22:00:15,291 - VasanthAssistant.RealtimeSearch - INFO - Groq client initialized successfully
+2025-12-28 22:00:15,380 - VasanthAssistant.Automation - INFO - Groq client initialized successfully
+2025-12-28 22:00:15,493 - VasanthAssistant.Chatbot - INFO - Groq client initialized successfully
+2025-12-28 22:00:15,506 - VasanthAssistant - INFO - Starting Vasanth's Assistant
+2025-12-28 22:00:15,506 - VasanthAssistant - INFO - Voice processing thread started
+2025-12-28 22:00:15,509 - VasanthAssistant - INFO - Starting GUI
+2025-12-28 22:00:22,616 - VasanthAssistant.SpeechToText - INFO - Initializing Chrome WebDriver...
+2025-12-28 22:00:22,616 - VasanthAssistant.SpeechToText - INFO - ChromeDriver already exists at C:\Users\Lenovo\Desktop\Akshay\Data\chromedriver\chromedriver.exe
+2025-12-28 22:00:23,894 - VasanthAssistant.SpeechToText - INFO - Chrome WebDriver initialized successfully
+2025-12-28 22:00:29,422 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-12-28 22:00:38,949 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-12-29 18:05:21,181 - VasanthAssistant.Model - INFO - Cohere client initialized successfully
+2025-12-29 18:05:21,222 - VasanthAssistant.RealtimeSearch - INFO - Groq client initialized successfully
+2025-12-29 18:05:21,430 - VasanthAssistant.Automation - INFO - Groq client initialized successfully
+2025-12-29 18:05:21,583 - VasanthAssistant.Chatbot - INFO - Groq client initialized successfully
+2025-12-29 18:05:21,590 - VasanthAssistant - INFO - Starting Vasanth's Assistant
+2025-12-29 18:05:21,590 - VasanthAssistant - INFO - Voice processing thread started
+2025-12-29 18:05:21,590 - VasanthAssistant - INFO - Starting GUI
+2025-12-29 18:05:25,760 - VasanthAssistant.SpeechToText - INFO - Initializing Chrome WebDriver...
+2025-12-29 18:05:25,760 - VasanthAssistant.SpeechToText - INFO - ChromeDriver already exists at C:\Users\Lenovo\Documents\Vasanth's Assistant\Data\chromedriver\chromedriver.exe
+2025-12-29 18:05:27,321 - VasanthAssistant.SpeechToText - INFO - Chrome WebDriver initialized successfully
+2025-12-29 18:05:45,183 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-12-29 18:08:09,421 - VasanthAssistant.Model - INFO - Cohere client initialized successfully
+2025-12-29 18:08:09,446 - VasanthAssistant.RealtimeSearch - INFO - Groq client initialized successfully
+2025-12-29 18:08:09,529 - VasanthAssistant.Automation - INFO - Groq client initialized successfully
+2025-12-29 18:08:09,636 - VasanthAssistant.Chatbot - INFO - Groq client initialized successfully
+2025-12-29 18:08:09,641 - VasanthAssistant - INFO - Starting Vasanth's Assistant
+2025-12-29 18:08:09,644 - VasanthAssistant - INFO - Voice processing thread started
+2025-12-29 18:08:09,644 - VasanthAssistant - INFO - Starting GUI
+2025-12-29 18:08:14,310 - VasanthAssistant.SpeechToText - INFO - Initializing Chrome WebDriver...
+2025-12-29 18:08:14,310 - VasanthAssistant.SpeechToText - INFO - ChromeDriver already exists at C:\Users\Lenovo\Documents\Vasanth's Assistant\Data\chromedriver\chromedriver.exe
+2025-12-29 18:08:15,594 - VasanthAssistant.SpeechToText - INFO - Chrome WebDriver initialized successfully
+2025-12-29 18:08:22,031 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-12-31 13:30:01,465 - VasanthAssistant.Model - INFO - Cohere client initialized successfully
+2025-12-31 13:30:01,549 - VasanthAssistant.RealtimeSearch - INFO - Groq client initialized successfully
+2025-12-31 13:30:01,690 - VasanthAssistant.Automation - INFO - Groq client initialized successfully
+2025-12-31 13:30:01,816 - VasanthAssistant.Chatbot - INFO - Groq client initialized successfully
+2025-12-31 13:30:01,820 - VasanthAssistant - INFO - Starting Vasanth's Assistant
+2025-12-31 13:30:01,822 - VasanthAssistant - INFO - Voice processing thread started
+2025-12-31 13:30:01,822 - VasanthAssistant - INFO - Starting GUI
+2025-12-31 13:30:08,593 - VasanthAssistant.SpeechToText - INFO - Initializing Chrome WebDriver...
+2025-12-31 13:30:08,593 - VasanthAssistant.SpeechToText - INFO - ChromeDriver already exists at C:\Users\Lenovo\Documents\Vasanth's Assistant\Data\chromedriver\chromedriver.exe
+2025-12-31 13:30:09,956 - VasanthAssistant.SpeechToText - INFO - Chrome WebDriver initialized successfully
+2025-12-31 13:30:26,430 - httpx - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
