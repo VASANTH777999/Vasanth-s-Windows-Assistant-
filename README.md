@@ -35,9 +35,12 @@ Vasanth's Assistant is a powerful, production-ready AI assistant that combines v
 ### 1. Clone or Download the Project
 
 ```bash
-cd c:\Users\Lenovo\Desktop\Akshay
+git clone https://github.com/VASANTH777999/Vasanth-s-Windows-Assistant-.git
 ```
 
+```bash
+cd Vasanth-s-Window-Assistant
+```
 ### 2. Install Dependencies
 
 ```bash
@@ -56,9 +59,9 @@ Edit `.env` and add your API keys:
 
 ```env
 # Required API Keys
-COHERE_API_KEY=your_cohere_api_key_here
-GROQ_API_KEY=your_groq_api_key_here
-STABILITY_API_KEY=your_stability_api_key_here  # Optional
+COHERE_API_KEY="your_cohere_api_key_here"
+GROQ_API_KEY="your_groq_api_key_here"
+STABILITY_API_KEY="your_stability_api_key_here"
 
 # User Configuration
 USERNAME=your_name
@@ -92,7 +95,7 @@ ASSISTANT_VOICE=en-IN-PrabhatNeural
 ### 5. Launch Vasanth's Assistant
 
 ```bash
-python solix.py
+python Vasanth'sAI.py
 ```
 
 That's it! Vasanth's Assistant will validate your configuration and launch the GUI.
@@ -145,11 +148,10 @@ Click the microphone icon to activate voice recognition, then speak your command
 
 ```
 Akshay/
-├── solix.py                 # Main entry point (run this!)
+├── Vasanth'sAI.py           # Main entry point (run this!)
 ├── config.py                # Centralized configuration
 ├── requirements.txt         # Python dependencies
 ├── .env                     # Your API keys (create from .env.example)
-├── .env.example             # Template for environment variables
 ├── README.md                # This file
 │
 ├── Backend/                 # Core AI and automation modules
@@ -243,7 +245,7 @@ pip install -r requirements.txt
 - Check `Data/speech.mp3` is being created
 
 ### Application crashes on startup
-- Check logs in `Data/logs/solix.log`
+- Check logs in `Data/logs/vasanth_assistant.log`
 - Verify all API keys are valid
 - Try deleting `Data/ChatLog.json` and restarting
 
@@ -252,11 +254,11 @@ pip install -r requirements.txt
 ## 📊 Logs and Data
 
 ### Log Files
-Application logs are stored in `Data/logs/solix.log`
+Application logs are stored in `Data/logs/vasanth_assistant.log`
 
 To view recent logs:
 ```bash
-type Data\logs\solix.log
+type Data\logs\Vasanth_assistant.log
 ```
 
 ### Chat History
@@ -295,7 +297,7 @@ LOG_LEVEL=DEBUG
 
 Then run:
 ```bash
-python solix.py
+python Vasanth'sAI.py
 ```
 
 ### Project Dependencies
@@ -336,3 +338,4 @@ python solix.py
 ```
 
 **Made with ❤️ for Vasanth**
+
